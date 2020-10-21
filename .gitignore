@@ -1,0 +1,23 @@
+# Extensions to ignore
+*.csv
+*.jmp
+*.xls
+*.xlsx
+*.lnk
+*.RTF
+*.txt
+*.pptx
+*.jrn
+*.docx
+*.doc
+*.pickle
+*.png
+*.pdf
+*.pyc
+*.png
+*.h5
+
+*.pyc
+# Folders to ignore
+data/
+question_env/
